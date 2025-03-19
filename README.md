@@ -1,5 +1,5 @@
 # atividade.py
-ome = input("nome: ")
+nome = input("nome: ")
 idade = input ("idade: ")
 local = ("local: ")
 combate = input("combate: ")
